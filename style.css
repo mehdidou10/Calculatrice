@@ -1,0 +1,40 @@
+
+body {
+background-color: goldenrod;
+font-weight: normal;
+background-image: linear-gradient(to right,gold,red);
+height: 100vh;
+width: 100vh;
+margin-left: 30vh
+}
+h1{
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.calc-grid{
+
+background-color: rgb(139, 243, 12);
+display: grid;
+justify-content: center;
+align-items: center;
+height: 60vh;
+width: 60vh;
+}
+
+
+calc-output{
+background-color: brown;
+
+
+}
+
+operand{
+background-color: bisque;
+
+}
+
+result{
+background-color: rgb(238, 134, 16);
+
+}
